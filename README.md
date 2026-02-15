@@ -1,2 +1,1 @@
-# s26-AI-test
-It is a test repo.
+My name is xyz.
